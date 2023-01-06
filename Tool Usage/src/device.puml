@@ -1,0 +1,51 @@
+@startuml
+'https://plantuml.com/class-diagram
+
+class Device {
+
+    private BigInteger id => 设备id;
+
+    private String code => 设备编号;
+
+    private String name =>设备名称;
+
+    private Date crtTime=> 创建时间;
+}
+
+class DeviceData {
+
+
+    private BigInteger id=>id;
+
+    private String title=>标题;
+
+    private String path=>路径;
+
+    private BigInteger nodeId=>节点/生命周期id;
+
+    private Date crtTime=>创建时间;
+
+    private Date uptTime=>修改时间;
+
+}
+
+
+class DeviceNode{
+
+
+    private BigInteger id=>节点id;
+
+    private String name=>名称;
+
+    private Integer position=>位置;
+
+    private BigInteger deviceId=>设备id;
+
+    private Date crtTime=>创建时间;
+
+}
+
+Device::id <-- DeviceNode:deviceId
+DeviceNode::id <-- DeviceData:nodeId
+
+@enduml
