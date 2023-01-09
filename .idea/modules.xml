@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Design-Mode-Java.iml" filepath="$PROJECT_DIR$/.idea/Design-Mode-Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/MVC Pattern/MVC Mode.iml" filepath="$PROJECT_DIR$/MVC Pattern/MVC Mode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Singleton Pattern/Singleton Pattern.iml" filepath="$PROJECT_DIR$/Singleton Pattern/Singleton Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Strategy Pattern/Strategy Pattern.iml" filepath="$PROJECT_DIR$/Strategy Pattern/Strategy Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tool Usage/Tool Usage.iml" filepath="$PROJECT_DIR$/Tool Usage/Tool Usage.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test/test.iml" filepath="$PROJECT_DIR$/Test/test.iml" />
