@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Abstract Factory Pattern/Abstract Factory Pattern.iml" filepath="$PROJECT_DIR$/Abstract Factory Pattern/Abstract Factory Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Design-Mode-Java.iml" filepath="$PROJECT_DIR$/.idea/Design-Mode-Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Factory Pattern/Factory Pattern.iml" filepath="$PROJECT_DIR$/Factory Pattern/Factory Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/MVC Pattern/MVC Pattern.iml" filepath="$PROJECT_DIR$/MVC Pattern/MVC Pattern.iml" />
