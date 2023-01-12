@@ -3,11 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Abstract Factory Pattern/Abstract Factory Pattern.iml" filepath="$PROJECT_DIR$/Abstract Factory Pattern/Abstract Factory Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AbstractFactoryPattern/AbstractFactoryPattern.iml" filepath="$PROJECT_DIR$/AbstractFactoryPattern/AbstractFactoryPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Design-Mode-Java.iml" filepath="$PROJECT_DIR$/.idea/Design-Mode-Java.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Factory Pattern/Factory Pattern.iml" filepath="$PROJECT_DIR$/Factory Pattern/Factory Pattern.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MVC Pattern/MVC Pattern.iml" filepath="$PROJECT_DIR$/MVC Pattern/MVC Pattern.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Singleton Pattern/Singleton Pattern.iml" filepath="$PROJECT_DIR$/Singleton Pattern/Singleton Pattern.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Strategy Pattern/Strategy Pattern.iml" filepath="$PROJECT_DIR$/Strategy Pattern/Strategy Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FactoryPattern/FactoryPattern.iml" filepath="$PROJECT_DIR$/FactoryPattern/FactoryPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MVCPattern/MVCPattern.iml" filepath="$PROJECT_DIR$/MVCPattern/MVCPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SingletonPattern/SingletonPattern.iml" filepath="$PROJECT_DIR$/SingletonPattern/SingletonPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StrategyPattern/StrategyPattern.iml" filepath="$PROJECT_DIR$/StrategyPattern/StrategyPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tool Usage/Tool Usage.iml" filepath="$PROJECT_DIR$/Tool Usage/Tool Usage.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test/test.iml" filepath="$PROJECT_DIR$/Test/test.iml" />
     </modules>
