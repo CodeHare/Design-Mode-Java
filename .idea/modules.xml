@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/Design-Mode-Java.iml" filepath="$PROJECT_DIR$/.idea/Design-Mode-Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/FactoryPattern/FactoryPattern.iml" filepath="$PROJECT_DIR$/FactoryPattern/FactoryPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/MVCPattern/MVCPattern.iml" filepath="$PROJECT_DIR$/MVCPattern/MVCPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prototype Pattern/Prototype Pattern.iml" filepath="$PROJECT_DIR$/Prototype Pattern/Prototype Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/SingletonPattern/SingletonPattern.iml" filepath="$PROJECT_DIR$/SingletonPattern/SingletonPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/StrategyPattern/StrategyPattern.iml" filepath="$PROJECT_DIR$/StrategyPattern/StrategyPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tool Usage/Tool Usage.iml" filepath="$PROJECT_DIR$/Tool Usage/Tool Usage.iml" />
